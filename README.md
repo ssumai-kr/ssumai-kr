@@ -10,6 +10,5 @@
   
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ssumai-kr&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ssumai-kr&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
