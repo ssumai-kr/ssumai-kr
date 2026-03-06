@@ -28,7 +28,7 @@
 
 ### 🏆 Certificates
 <div align="left">
-  <img width="150" alt="Certificate" src="https://github.com/user-attachments/assets/76d9c5ff-1ecb-42ea-9bed-494995c9aa8d" />
+  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c944beda-d042-494c-920e-ac8f05ec0cd4" />
 </div>
 
 ### 🛠️ Tools
