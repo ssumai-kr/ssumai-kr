@@ -1,42 +1,77 @@
 <div align="center">
-  <h1>Hi, Im Clap Min</h1>
-  <p>ssumai-kr</p>
-</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Clap%20Min&fontSize=72&fontColor=F5A623&fontAlignY=40&desc=SoftWare%20Developer%20%7C%20ssumai-kr&descSize=20&descColor=c9a87c&descAlignY=62&animation=fadeIn" />
 
 <br/>
+
+<a href="https://github.com/ssumai-kr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=480&lines=React+%26+TypeScript+Developer+%F0%9F%9A%80;Always+crafting+better+UX+%E2%9C%A8;Frontend+Engineer+%40+Student+Council;Open+to+learning+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ssumai-kr&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+---
+
+### 🧑‍💻 About Me
+```
+🏫  Computer Science & Business Administration @ Soongsil University
+⚡  Frontend Developer on Student Council IT Committee (1,000+ users)
+```
+
+---
 
 ### 💻 Frontend
-<div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-</div>
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-0F2744?style=for-the-badge&logo=TypeScript&logoColor=3178C6">
+<img src="https://img.shields.io/badge/JavaScript-1a1a00?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
 <br/>
+<img src="https://img.shields.io/badge/HTML5-2D1200?style=for-the-badge&logo=HTML5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-001833?style=for-the-badge&logo=CSS3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/Emotion-C43BAD?style=for-the-badge&logo=css-modules&logoColor=white">
+<img src="https://img.shields.io/badge/Jotai-1a1a2e?style=for-the-badge&logo=atom&logoColor=F5A623">
+
+---
 
 ### ⚙️ Languages
-<div align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-</div>
-<br/>
 
-### 🏆 Certificates
-<div align="left">
-  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c944beda-d042-494c-920e-ac8f05ec0cd4" />
-</div>
+<img src="https://img.shields.io/badge/C++-00274C?style=for-the-badge&logo=C%2B%2B&logoColor=00599C">
+<img src="https://img.shields.io/badge/Java-1B1B1B?style=for-the-badge&logo=openjdk&logoColor=f89820">
+<img src="https://img.shields.io/badge/Python-1a2744?style=for-the-badge&logo=Python&logoColor=3776AB">
+
+---
 
 ### 🛠️ Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
-</div>
+
+<img src="https://img.shields.io/badge/Git-1a0a00?style=for-the-badge&logo=Git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-001933?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC">
+<img src="https://img.shields.io/badge/Figma-1a0d1a?style=for-the-badge&logo=Figma&logoColor=F24E1E">
+
+---
+
+### 🏆 Certificates
+
+<img width="180" height="180" src="https://github.com/user-attachments/assets/c944beda-d042-494c-920e-ac8f05ec0cd4" />
+
+---
+
+### 📊 Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ssumai-kr&show_icons=true&theme=dark&bg_color=0d1117&border_color=F5A623&icon_color=F5A623&title_color=F5A623&text_color=c9a87c&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssumai-kr&layout=compact&theme=dark&bg_color=0d1117&border_color=F5A623&title_color=F5A623&text_color=c9a87c" />
 
 <br/>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumin5658)](https://solved.ac/sumin5658)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+
+</div>
