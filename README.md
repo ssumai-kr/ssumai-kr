@@ -16,14 +16,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-```
-🏫  Computer Science & Business Administration @ Soongsil University
-⚡  Frontend Developer on Student Council IT Committee (1,000+ users)
-```
-
----
-
 ### 💻 Frontend
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB">
