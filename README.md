@@ -28,22 +28,20 @@
 <img src="https://img.shields.io/badge/Emotion-C43BAD?style=for-the-badge&logo=css-modules&logoColor=white">
 <img src="https://img.shields.io/badge/Jotai-1a1a2e?style=for-the-badge&logo=atom&logoColor=F5A623">
 
----
 
 ### ⚙️ Languages
-
 <img src="https://img.shields.io/badge/C++-00274C?style=for-the-badge&logo=C%2B%2B&logoColor=00599C">
 <img src="https://img.shields.io/badge/Java-1B1B1B?style=for-the-badge&logo=openjdk&logoColor=f89820">
 <img src="https://img.shields.io/badge/Python-1a2744?style=for-the-badge&logo=Python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/ABAP-001833?style=for-the-badge&logo=sap&logoColor=0070F2">
 
----
 
 ### 🛠️ Tools
-
 <img src="https://img.shields.io/badge/Git-1a0a00?style=for-the-badge&logo=Git&logoColor=F05032">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/VS%20Code-001933?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC">
 <img src="https://img.shields.io/badge/Figma-1a0d1a?style=for-the-badge&logo=Figma&logoColor=F24E1E">
+<img src="https://img.shields.io/badge/SAP-0d1117?style=for-the-badge&logo=sap&logoColor=0070F2">
 
 ---
 
