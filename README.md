@@ -2,13 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Clap%20Min&fontSize=72&fontColor=F5A623&fontAlignY=40&desc=SoftWare%20Developer%20%7C%20ssumai-kr&descSize=20&descColor=c9a87c&descAlignY=62&animation=fadeIn" />
 
-<br/>
-
-<a href="https://github.com/ssumai-kr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=480&lines=React+%26+TypeScript+Developer+%F0%9F%9A%80;Always+crafting+better+UX+%E2%9C%A8;Frontend+Engineer+%40+Student+Council;Open+to+learning+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
-
-<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ssumai-kr&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
