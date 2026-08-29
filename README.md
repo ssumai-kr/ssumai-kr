@@ -30,13 +30,6 @@
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ssumai-kr&langs_count=5&theme=dark" alt="GitHub Top Langs" />
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://wakatime.com/@alan">
-        <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&theme=dark" alt="WakaTime Stats" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 </div>
